@@ -1,2 +1,3 @@
-# clay-transforms
-Clay transforms for dynamic gaussian splatting
+# Placeholder
+
+This is my new research project, I'm still figuring out stuff! Come by later :)
